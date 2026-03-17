@@ -1,8 +1,13 @@
 # 🚀 42 Cursus Projects
 
 <!-- ================= BADGE ================= -->
-[![42 Badge](https://badge.mediaplus.ma/binary/YOUR_LOGIN)](https://github.com/oakoudad/badge42)
 
+[![<ralhoura>'s 42 stats](https://badge.mediaplus.ma/Water/ralhoura)](https://github.com/oakoudad/badge42)
+
+<!--
+this is the link of the badge you can choose any thing you want of the theam
+[![42 Badge](https://badge.mediaplus.ma/binary/YOUR_LOGIN)](https://github.com/oakoudad/badge42)
+-->
 ---
 
 # 📚 Core Projects
