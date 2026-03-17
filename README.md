@@ -3,7 +3,7 @@ All 42 projects that I solved
 
 # 42 Cursus progress 👨🏻‍💻 🧛
 
-[![Raneem's 42 stats](https://badge.mediaplus.ma/binary/ralhoura)](https://github.com/oakoudad/badge42)
+[![Raneem's 42 stats](https://badge.mediaplus.ma/binary/ralhoura)](https://github.com/ralhoura/badge42)
 <br>
 <br>
 <br>
