@@ -7,7 +7,7 @@ All 42 projects that I solved
 <br>
 <br>
 <br>
-# COMMON CORE 🧠 
+# COMMON CORE 🎸✨
 <br>
 <br>
 <br>
