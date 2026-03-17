@@ -2,7 +2,7 @@
 
 <!-- ================= BADGE ================= -->
 
-[![<ralhoura>'s 42 stats](https://badge.mediaplus.ma/water/ralhoura)](https://github.com/oakoudad/badge42)
+[![<ralhoura>'s 42 stats](https://badge.mediaplus.ma/starryblue/ralhoura)](https://github.com/oakoudad/badge42)
 
 <!--
 this is the link of the badge you can choose any thing you want of the theam
