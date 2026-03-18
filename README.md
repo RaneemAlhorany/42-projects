@@ -83,16 +83,18 @@ this is the link of the badge you can choose any thing you want of the theam
 ---
 
 # 🎓 Exams
-<!--
+<
 <details>
 <summary>📊 Exam Ranks</summary>
-
-- 👨🏻‍🎓 Exam Rank 02  
-- 👨🏻‍🎓 Exam Rank 03  
+<!--
+- 👨🏻‍🎓 Exam Rank 02
+ -->
+- 👨🏻‍🎓 Exam Rank 03
+ <!--
 - 👨🏻‍🎓 Exam Rank 04  
 - 👨🏻‍🎓 Exam Rank 05  
 - 👨🏻‍🎓 Exam Rank 06  
-
+-->
 </details>
 -->
 ---
