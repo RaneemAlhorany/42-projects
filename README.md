@@ -80,6 +80,7 @@ this is the link of the badge you can choose any thing you want of the theam
 
 </details>
 -->
+
 ---
 
 # 🎓 Exams
@@ -89,14 +90,16 @@ this is the link of the badge you can choose any thing you want of the theam
 <!--
 - 👨🏻‍🎓 Exam Rank 02
  -->
-- 👨🏻‍🎓 Exam Rank 03
+ 
+ [- 👨🏻‍🎓 Exam Rank 03](https://github.com/oakoudad/badge42)
+
  <!--
 - 👨🏻‍🎓 Exam Rank 04  
 - 👨🏻‍🎓 Exam Rank 05  
 - 👨🏻‍🎓 Exam Rank 06  
 -->
 </details>
--->
+
 ---
 
 # 🌟 Out Core Projects
