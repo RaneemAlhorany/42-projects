@@ -154,7 +154,4 @@ this is the link of the badge you can choose any thing you want of the theam
 <!--
  ================= HIDDEN SECTIONS ================= 
 
-
-### ⌨️ Tinky-Winkey (WIP)
-► [Code](https://github.com/gemartin99/tinky-winkey)
 -->
