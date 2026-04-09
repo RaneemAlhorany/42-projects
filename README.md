@@ -14,10 +14,10 @@ this is the link of the badge you can choose any thing you want of the theam
 
 ## 🧱 Foundations
 
-<!--
-### 📚 Libft
-► [Project description and code](https://github.com/gemartin99/Libft)
 
+### 📚 Libft
+► [Project description and code](https://github.com/RaneemAlhorany/libft--42)
+<!--
 ### 📝 Printf
 ► [Project description and code](https://github.com/gemartin99/ft_printf)
 
