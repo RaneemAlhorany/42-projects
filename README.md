@@ -17,12 +17,15 @@ this is the link of the badge you can choose any thing you want of the theam
 
 ### 📚 Libft
 ► [Project description and code](https://github.com/RaneemAlhorany/libft--42)
+
+
+### 📖 Get Next Line
+► [Project description and code](https://github.com/RaneemAlhorany/get_next_line-42-project)
+
+
 <!--
 ### 📝 Printf
 ► [Project description and code](https://github.com/gemartin99/ft_printf)
-
-### 📖 Get Next Line
-► [Project description and code](https://github.com/gemartin99/Get_next_line)
 
 -->
 ---
