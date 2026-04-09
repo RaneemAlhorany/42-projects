@@ -66,13 +66,14 @@ this is the link of the badge you can choose any thing you want of the theam
 ---
 
 # 📂 More Projects (Click to expand)
-<!--
+
 <details>
 <summary>📦 View all projects</summary>
 
 ### 🖥 Born2beroot
-► [Project description and instalation tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)
+► [Project description and instalation tutorial](https://github.com/RaneemAlhorany/born_to_be_root)
 
+<!--
 ### 🌐 Netpractice
 
 ### 🎮 Transcendence
@@ -80,9 +81,9 @@ this is the link of the badge you can choose any thing you want of the theam
 
 ### C ➕➕
 ► [Code](https://github.com/gemartin99/CPP00)
-
-</details>
 -->
+</details>
+
 
 ---
 
