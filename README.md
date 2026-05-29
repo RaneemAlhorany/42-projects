@@ -41,10 +41,11 @@ this is the link of the badge you can choose any thing you want of the theam
 
 ### 🎮 So_long
 ► [Project description and code](https://github.com/gemartin99/So_long)
+-->
 
 ### 🍴 Philosophers
-► [Project description and code](https://github.com/gemartin99/Philosophers)
--->
+► [Project description and code](https://github.com/RaneemAlhorany/philosophers-42)
+
 ---
 
 ## 🐚 Advanced
