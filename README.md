@@ -66,9 +66,10 @@ this is the link of the badge you can choose any thing you want of the theam
 -->
 ---
 
-# oop - c++ (Click to expand)
+# oop - c➕➕ (Click to expand)
 <details>
-### C ➕➕,c00
+### c00
+ 
 ► [Code](https://github.com/RaneemAlhorany/c00)
 
 
