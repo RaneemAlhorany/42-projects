@@ -77,10 +77,17 @@ this is the link of the badge you can choose any thing you want of the theam
  
 ► [Code](https://github.com/RaneemAlhorany/c01)
 
+
+### C02
+► [Code](https://github.com/RaneemAlhorany/c02)
+
 <!--
 ### C ➕➕ , c0
 ► [Code](https://github.com/gemartin99/CPP00)
 -->
+
+
+
 </details>
 
 ---
