@@ -69,19 +69,19 @@ this is the link of the badge you can choose any thing you want of the theam
 # oop - c➕➕ (Click to expand)
 <details>
  
-### c00
+### CPP Module 00
  
 ► [Code](https://github.com/RaneemAlhorany/c00)
 
-### c01
+### CPP Module 01
  
 ► [Code](https://github.com/RaneemAlhorany/c01)
 
 
-### C02
+### CPP Module 02
 ► [Code](https://github.com/RaneemAlhorany/c02)
 
-### C03
+### CPP Module 03
 ► [Code]()
 
 <!--
