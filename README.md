@@ -54,9 +54,12 @@ this is the link of the badge you can choose any thing you want of the theam
 ### 🐚 Minishell
 ► [Project description and code](https://github.com/gemartin99/minishell)
 
-### ⚡ MiniRT
-► [Project description and code](https://github.com/gemartin99/MiniRT)
+-->
 
+### ⚡ MiniRT
+► [Project description and code](https://github.com/Baraa-Abo-Seif/miniRT)
+
+<!--
 ### 💬 IRC
 ► [Project description and code](https://github.com/gemartin99/ft_irc)
 
@@ -64,6 +67,7 @@ this is the link of the badge you can choose any thing you want of the theam
 ► [Project description and tutorial](https://github.com/gemartin99/Inception)
 
 -->
+
 ---
 
 # oop - c➕➕ (Click to expand)
